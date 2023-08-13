@@ -1,6 +1,6 @@
 <!-- Portada de Inicio -->
 <a href="https://portfolio-miguel-fernandez.netlify.app" target="_blank" >
- <img src="https://media.licdn.com/dms/image/D4D16AQGBHqGL0skOSA/profile-displaybackgroundimage-shrink_350_1400/0/1688771482391?e=1694649600&v=beta&t=JwnQ1tXy3Ie-ad1wf8oIcihXiA-zWy1nmKW-SeuCtfI" width="100%" height=auto >
+ <img src="" width="100%" height=auto >
 </a>
 <!-- Portada opcional -->
 <!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)-->
