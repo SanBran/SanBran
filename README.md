@@ -1,9 +1,7 @@
-<!-- Portada de Inicio -->
 
-[![banner.jpg](https://i.postimg.cc/L6rYh26p/banner.jpg)](https://postimg.cc/JG542wk6)
 
-<!-- Portada opcional -->
-<!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)-->
+[![banner.png](https://i.postimg.cc/ryYX1prv/banner.png)](https://postimg.cc/WtrHjTSn)
+
 
 ---
 
