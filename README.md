@@ -9,7 +9,6 @@
  I'm a passionate full stack web developer with experience in front-end and back-end technologies. I enjoy creating modern and efficient web applications, always focusing on innovative solutions that provide an excellent user experience and meet the needs of customers. I am excited to collaborate on challenging projects and work as a team to drive business success and growth through technology. I am always open to new opportunities and eager to expand my skills in the field of full web development.
 
 ---
----
 
 ### Languages and tools
 
