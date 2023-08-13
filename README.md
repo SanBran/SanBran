@@ -1,7 +1,7 @@
 <!-- Portada de Inicio -->
-<a href="https://portfolio-miguel-fernandez.netlify.app" target="_blank" >
+
  <img src="" width="100%" height=auto >
-</a>
+
 <!-- Portada opcional -->
 <!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif)-->
 
