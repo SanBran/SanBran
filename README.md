@@ -10,7 +10,7 @@
 
 ---
 
-### Languages and tools
+### Skills and tools
 
 <p align="left"> 
 
